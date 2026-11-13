@@ -1,0 +1,61 @@
+{
+  "Content": {
+    "width": "100%",
+    "gap": "10px",
+    "paddingBottom": "5px"
+  },
+
+  "AccentSettingContainer": {
+    "layoutDirection": "horizontal",
+    "width": "100%",
+    "contentAlignment": "center",
+    "contentSpacing": "spaced-between"
+  },
+
+  "AccentSettingTextBoxContainer": {
+    "layoutDirection": "horizontal",
+    "contentSpacing": "spaced-between",
+    "width": "70px",
+    "height": "16px",
+    "paddingHorizontal": "6px",
+    "contentAlignment": "center",
+    "backgroundColor": "solid #1a1a1a",
+    "borderRadius": "3px"
+  },
+
+  "AccentTextField": {
+    "layoutDirection": "horizontal"
+  },
+
+  "AccentPreview": {
+    "width": "4px",
+    "height": "4px",
+    "backgroundColor": "solid #ffffff"
+  },
+
+  "SettingToggle": {
+    "width": "100%"
+  },
+
+  "SettingsEntry": {
+    "width": "100%",
+    "layoutDirection": "horizontal",
+    "contentAlignment": "center",
+    "contentSpacing": "spaced-between"
+  },
+
+  "LabelWithButton":{
+    "layoutDirection": "horizontal",
+    "contentAlignment": "center",
+    "gap": "6px",
+    "paddingLeft": "8px",
+    "backgroundColor": "solid #151515",
+    "borderRadius": "3px"
+  },
+
+  "Divider": {
+    "width": "100%",
+    "height": "1px",
+    "backgroundColor": "solid #1a1a1a"
+  }
+}

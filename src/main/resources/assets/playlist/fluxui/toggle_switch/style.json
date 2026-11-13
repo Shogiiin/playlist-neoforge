@@ -1,0 +1,16 @@
+{
+  "ToggleSwitch": {
+    "width": "17px",
+    "height": "9px",
+    "backgroundColor": "solid #ffffff",
+    "borderRadius": "3px"
+  },
+
+  "ToggleSlider": {
+    "width": "9px",
+    "height": "9px",
+    "paddingLeft": "1px",
+    "backgroundColor": "solid #aaaaff",
+    "borderRadius": "3px"
+  }
+}

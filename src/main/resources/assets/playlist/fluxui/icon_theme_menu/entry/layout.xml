@@ -1,0 +1,9 @@
+<Element>
+  <Stylesheet location="style.json" />
+
+  <Content>
+    <Container id="IconThemeEntry" onClick="$onClick">
+      <Text content="$label" />
+    </Container>
+  </Content>
+</Element>

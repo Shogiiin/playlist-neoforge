@@ -1,0 +1,7 @@
+<Element>
+  <Stylesheet location="style.json" />
+
+  <Content>
+    <Container id="TabGroup" />
+  </Content>
+</Element>

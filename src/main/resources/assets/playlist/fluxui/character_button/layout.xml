@@ -1,0 +1,10 @@
+<Element>
+  <Stylesheet location="style.json" />
+
+  <Content>
+    <Container id="CharacterButton" onClick="$buttonPress" onHover="$buttonHover" onUnHover="$buttonUnHover">
+      <Text id="CharacterText" content="$buttonText" />
+    </Container>
+  </Content>
+
+</Element>

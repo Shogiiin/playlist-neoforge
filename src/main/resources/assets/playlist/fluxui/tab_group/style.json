@@ -1,0 +1,7 @@
+{
+  "TabGroup": {
+    "layoutDirection": "horizontal",
+    "contentAlignment": "center",
+    "gap": "10px"
+  }
+}

@@ -1,0 +1,508 @@
+{
+    "music.c418.minecraft": {
+        "title": "Minecraft",
+        "artist": "C418",
+        "album": "Volume Alpha",
+        "alt": "calm1",
+        "categories": {
+            "category.overworld": []
+        },
+        "track": 8
+    },
+    "music.c418.clark": {
+        "title": "Clark",
+        "artist": "C418",
+        "album": "Volume Alpha",
+        "alt": "calm2",
+        "categories": {
+            "category.overworld": []
+        },
+        "track": 14
+    },
+    "music.c418.sweden": {
+        "title": "Sweden",
+        "artist": "C418",
+        "album": "Volume Alpha",
+        "alt": "calm3",
+        "categories": {
+            "category.overworld": []
+        },
+        "track": 18
+    },
+    "music.c418.biome_fest": {
+        "title": "Biome Fest",
+        "artist": "C418",
+        "album": "Volume Beta",
+        "alt": "creative1",
+        "categories": {
+            "category.overworld": [
+                "condition.creative"
+            ]
+        },
+        "track": 8
+    },
+    "music.c418.blindspots": {
+        "title": "Blind Spots",
+        "artist": "C418",
+        "album": "Volume Beta",
+        "alt": "creative2",
+        "categories": {
+            "category.overworld": [
+                "condition.creative"
+            ]
+        },
+        "track": 4
+    },
+    "music.c418.haunt_muskie": {
+        "title": "Haunt Muskie",
+        "artist": "C418",
+        "album": "Volume Beta",
+        "alt": "creative3",
+        "categories": {
+            "category.overworld": [
+                "condition.creative"
+            ]
+        },
+        "track": 10
+    },
+    "music.c418.aria_math": {
+        "title": "Aria Math",
+        "artist": "C418",
+        "album": "Volume Beta",
+        "alt": "creative4",
+        "categories": {
+            "category.overworld": [
+                "condition.creative"
+            ]
+        },
+        "track": 13
+    },
+    "music.c418.dreiton": {
+        "title": "Dreiton",
+        "artist": "C418",
+        "album": "Volume Beta",
+        "alt": "creative5",
+        "categories": {
+            "category.overworld": [
+                "condition.creative"
+            ]
+        },
+        "track": 18
+    },
+    "music.c418.taswell": {
+        "title": "Taswell",
+        "artist": "C418",
+        "album": "Volume Beta",
+        "alt": "creative6",
+        "categories": {
+            "category.overworld": [
+                "condition.creative"
+            ]
+        },
+        "track": 16
+    },
+    "music.c418.subwoofer_lullaby": {
+        "title": "Subwoofer Lullaby",
+        "artist": "C418",
+        "album": "Volume Alpha",
+        "alt": "hal1",
+        "categories": {
+            "category.overworld": []
+        },
+        "track": 3
+    },
+    "music.c418.living_mice": {
+        "title": "Living Mice",
+        "artist": "C418",
+        "album": "Volume Alpha",
+        "alt": "hal2",
+        "categories": {
+            "category.overworld": []
+        },
+        "track": 5
+    },
+    "music.c418.haggstrom": {
+        "title": "Haggstrom",
+        "artist": "C418",
+        "album": "Volume Alpha",
+        "alt": "hal3",
+        "categories": {
+            "category.overworld": []
+        },
+        "track": 7
+    },
+    "music.c418.danny": {
+        "title": "Danny",
+        "artist": "C418",
+        "album": "Volume Alpha",
+        "alt": "hal4",
+        "categories": {
+            "category.overworld": []
+        },
+        "track": 21
+    },
+    "music.c418.key": {
+        "title": "Key",
+        "artist": "C418",
+        "album": "Volume Alpha",
+        "alt": "nuance1",
+        "categories": {
+            "category.overworld": []
+        },
+        "track": 1
+    },
+    "music.c418.oxygene": {
+        "title": "Oxygène",
+        "artist": "C418",
+        "album": "Volume Alpha",
+        "alt": "nuance2",
+        "categories": {
+            "category.overworld": []
+        },
+        "track": 9
+    },
+    "music.c418.dry_hands": {
+        "title": "Dry Hands",
+        "artist": "C418",
+        "album": "Volume Alpha",
+        "alt": "piano1",
+        "categories": {
+            "category.overworld": []
+        },
+        "track": 12
+    },
+    "music.c418.wet_hands": {
+        "title": "Wet Hands",
+        "artist": "C418",
+        "album": "Volume Alpha",
+        "alt": "piano2",
+        "categories": {
+            "category.overworld": []
+        },
+        "track": 13
+    },
+    "music.c418.mice_on_venus": {
+        "title": "Mice on Venus",
+        "artist": "C418",
+        "album": "Volume Alpha",
+        "alt": "piano3",
+        "categories": {
+            "category.overworld": []
+        },
+        "track": 11
+    },
+    "music.c418.axolotl": {
+        "title": "Axolotl",
+        "artist": "C418",
+        "album": "Axolotl",
+        "type": "Aquatic",
+        "categories": {
+            "category.overworld": [
+                "condition.aquatic"
+            ]
+        },
+        "track": 1
+    },
+    "music.c418.shuniji": {
+        "title": "Shuniji",
+        "artist": "C418",
+        "album": "Shuniji",
+        "type": "Aquatic",
+        "categories": {
+            "category.overworld": [
+                "condition.aquatic"
+            ]
+        },
+        "track": 1
+    },
+    "music.c418.dragon_fish": {
+        "title": "Dragon Fish",
+        "artist": "C418",
+        "album": "Dragon Fish",
+        "type": "Aquatic",
+        "categories": {
+            "category.overworld": [
+                "condition.aquatic"
+            ]
+        },
+        "track": 1
+    },
+    "music.c418.concrete_halls": {
+        "title": "Concrete Halls",
+        "artist": "C418",
+        "album": "Volume Beta",
+        "alt": "nether1",
+        "type": "Nether",
+        "categories": {
+            "category.nether": []
+        },
+        "track": 7
+    },
+    "music.c418.dead_voxel": {
+        "title": "Dead Voxel",
+        "artist": "C418",
+        "album": "Volume Beta",
+        "alt": "nether2",
+        "type": "Nether",
+        "categories": {
+            "category.nether": []
+        },
+        "track": 3
+    },
+    "music.c418.warmth": {
+        "title": "Warmth",
+        "artist": "C418",
+        "album": "Volume Beta",
+        "alt": "nether3",
+        "type": "Nether",
+        "categories": {
+            "category.nether": []
+        },
+        "track": 11
+    },
+    "music.c418.ballad_of_the_cats": {
+        "title": "Ballad of the Cats",
+        "artist": "C418",
+        "album": "Volume Beta",
+        "alt": "nether4",
+        "type": "Nether",
+        "categories": {
+            "category.nether": []
+        },
+        "track": 15
+    },
+    "music.c418.boss": {
+        "title": "Boss",
+        "artist": "C418",
+        "album": "Non-Album Tracks",
+        "alt": "boss",
+        "type": "End",
+        "categories": {
+            "category.the_end": [
+                "condition.end_dragon"
+            ]
+        }
+    },
+    "music.c418.the_end": {
+        "title": "The End",
+        "artist": "C418",
+        "album": "Volume Beta",
+        "alt": "end",
+        "type": "End",
+        "categories": {
+            "category.the_end": []
+        },
+        "track": 19
+    },
+    "music.c418.mutation": {
+        "title": "Mutation",
+        "artist": "C418",
+        "album": "Volume Beta",
+        "alt": "menu1",
+        "type": "Menu",
+        "categories": {
+            "category.menu": []
+        },
+        "track": 9
+    },
+    "music.c418.moog_city_2": {
+        "title": "Moog City 2",
+        "artist": "C418",
+        "album": "Volume Beta",
+        "alt": "menu2",
+        "type": "Menu",
+        "categories": {
+            "category.menu": []
+        },
+        "track": 6
+    },
+    "music.c418.beginning_2": {
+        "title": "Beginning 2",
+        "artist": "C418",
+        "album": "Volume Beta",
+        "alt": "menu3",
+        "type": "Menu",
+        "categories": {
+            "category.menu": []
+        },
+        "track": 17
+    },
+    "music.c418.floating_trees": {
+        "title": "Floating Trees",
+        "artist": "C418",
+        "album": "Volume Beta",
+        "alt": "menu4",
+        "type": "Menu",
+        "categories": {
+            "category.menu": []
+        },
+        "track": 12
+    },
+    "music.c418.alpha": {
+        "title": "Alpha",
+        "artist": "C418",
+        "album": "Volume Beta",
+        "alt": "credits",
+        "type": "Credits",
+        "categories": {
+            "category.credits": []
+        },
+        "track": 2
+    },
+    "music.c418.13": {
+        "title": "Thirteen",
+        "artist": "C418",
+        "album": "Volume Alpha",
+        "type": "Music Disc",
+        "weight": 1,
+        "categories": {
+            "category.overworld": [],
+            "category.nether": [],
+            "category.the_end": []
+        },
+        "alt": "13",
+        "track": 16
+    },
+    "music.c418.cat": {
+        "title": "Cat",
+        "artist": "C418",
+        "album": "Volume Alpha",
+        "type": "Music Disc",
+        "weight": 1,
+        "categories": {
+            "category.overworld": [],
+            "category.nether": [],
+            "category.the_end": []
+        },
+        "track": 19
+    },
+    "music.c418.chirp": {
+        "title": "Chirp",
+        "artist": "C418",
+        "album": "Volume Beta",
+        "type": "Music Disc",
+        "weight": 1,
+        "categories": {
+            "category.overworld": [],
+            "category.nether": [],
+            "category.the_end": []
+        },
+        "track": 20
+    },
+    "music.c418.wait": {
+        "title": "Wait",
+        "artist": "C418",
+        "album": "Volume Beta",
+        "type": "Music Disc",
+        "weight": 1,
+        "categories": {
+            "category.overworld": [],
+            "category.nether": [],
+            "category.the_end": []
+        },
+        "track": 21
+    },
+    "music.c418.mellohi": {
+        "title": "Mellohi",
+        "artist": "C418",
+        "album": "Volume Beta",
+        "type": "Music Disc",
+        "weight": 1,
+        "categories": {
+            "category.overworld": [],
+            "category.nether": [],
+            "category.the_end": []
+        },
+        "track": 22
+    },
+    "music.c418.stal": {
+        "title": "Stal",
+        "artist": "C418",
+        "album": "Volume Beta",
+        "type": "Music Disc",
+        "weight": 1,
+        "categories": {
+            "category.overworld": [],
+            "category.nether": [],
+            "category.the_end": []
+        },
+        "track": 23
+    },
+    "music.c418.strad": {
+        "title": "Strad",
+        "artist": "C418",
+        "album": "Volume Beta",
+        "type": "Music Disc",
+        "weight": 1,
+        "categories": {
+            "category.overworld": [],
+            "category.nether": [],
+            "category.the_end": []
+        },
+        "track": 24
+    },
+    "music.c418.ward": {
+        "title": "Ward",
+        "artist": "C418",
+        "album": "Volume Beta",
+        "type": "Music Disc",
+        "weight": 1,
+        "categories": {
+            "category.overworld": [],
+            "category.nether": [],
+            "category.the_end": []
+        },
+        "track": 26
+    },
+    "music.c418.mall": {
+        "title": "Mall",
+        "artist": "C418",
+        "album": "Volume Beta",
+        "type": "Music Disc",
+        "weight": 1,
+        "categories": {
+            "category.overworld": [],
+            "category.nether": [],
+            "category.the_end": []
+        },
+        "track": 27
+    },
+    "music.c418.blocks": {
+        "title": "Blocks",
+        "artist": "C418",
+        "album": "Volume Beta",
+        "type": "Music Disc",
+        "weight": 1,
+        "categories": {
+            "category.overworld": [],
+            "category.nether": [],
+            "category.the_end": []
+        },
+        "track": 28
+    },
+    "music.c418.far": {
+        "title": "Far",
+        "artist": "C418",
+        "album": "Volume Beta",
+        "type": "Music Disc",
+        "weight": 1,
+        "categories": {
+            "category.overworld": [],
+            "category.nether": [],
+            "category.the_end": []
+        },
+        "track": 29
+    },
+    "music.c418.11": {
+        "title": "11",
+        "artist": "C418",
+        "album": "Non-Album Tracks",
+        "type": "Music Disc",
+        "weight": 1,
+        "categories": {
+            "category.overworld": [],
+            "category.nether": [],
+            "category.the_end": []
+        }
+    }
+}

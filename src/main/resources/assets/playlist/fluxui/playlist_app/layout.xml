@@ -1,0 +1,5 @@
+<Element>
+  <Content>
+    <SettingsMenu goTo="$goTo" goBack="$goBack" />
+  </Content>
+</Element>

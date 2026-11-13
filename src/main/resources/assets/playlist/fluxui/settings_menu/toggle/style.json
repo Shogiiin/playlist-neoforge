@@ -1,0 +1,7 @@
+{
+  "SettingsMenuToggleContainer": {
+    "layoutDirection": "horizontal",
+    "contentSpacing": "spaced-between",
+    "width": "100%"
+  }
+}

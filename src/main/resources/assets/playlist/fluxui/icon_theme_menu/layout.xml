@@ -1,0 +1,15 @@
+<Element>
+  <Stylesheet location="style.json" />
+
+  <Content>
+    <Menu
+      title="Change Icon Theme"
+      primaryButtonLabel="Done"
+      primaryButtonAction="$exitScreen"
+      backAction="$exitScreen"
+    >
+      <Container id="IconThemeContent" />
+      <Text id="CreditText">Custom icon themes by DeadbushCarrot!</Text>
+    </Menu>
+  </Content>
+</Element>

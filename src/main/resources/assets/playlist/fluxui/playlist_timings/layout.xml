@@ -1,0 +1,34 @@
+<Element>
+  <Stylesheet location="style.json" />
+
+  <Content>
+    <Container id="SimpleList">
+      <Container id="SpreadContainer">
+        <Text>Time between songs</Text>
+        <FocusContainer id="TimingTextField1" controlledChild="TimeBtwnSongsTextBox">
+          <Text id="SecUnit">sec</Text>
+          <TextBox
+            id="TimeBtwnSongsTextBox"
+            maxLength="4"
+            defaultText="$timeBtwnSongsDefault"
+            onUnFocus="$timeBtwnSongsUnFocus"
+            numbersOnly="true"
+          />
+        </FocusContainer>
+      </Container>
+      <Container id="SpreadContainer">
+        <Text id="PercentUnit">Variance</Text>
+        <FocusContainer id="TimingTextField2" controlledChild="VarianceTextBox">
+          <Text>%</Text>
+          <TextBox
+            id="VarianceTextBox"
+            maxLength="2"
+            defaultText="$varianceDefault"
+            onUnFocus="$varianceUnFocus"
+            numbersOnly="true"
+          />
+        </FocusContainer>
+      </Container>
+    </Container>
+  </Content>
+</Element>

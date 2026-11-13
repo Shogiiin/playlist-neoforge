@@ -1,0 +1,7 @@
+<Element>
+  <Content>
+    <Container id="TextBoxContainer" onKeyboardInput="$keyboardHandler" focusable="true">
+      <Text id="TextElement">Test!</Text>
+    </Container>
+  </Content>
+</Element>

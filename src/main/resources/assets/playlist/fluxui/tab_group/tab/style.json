@@ -1,0 +1,20 @@
+{
+  "Tab": {
+    "paddingVertical": "4px",
+    "paddingHorizontal": "6px"
+  },
+
+  "SelectedTab": {
+    "paddingVertical": "4px",
+    "paddingHorizontal": "6px",
+    "backgroundColor": "solid #1a1a1a",
+    "borderRadius": "3px"
+  },
+
+  "HoveredTab": {
+    "paddingVertical": "4px",
+    "paddingHorizontal": "6px",
+    "backgroundColor": "solid #151515",
+    "borderRadius": "3px"
+  }
+}

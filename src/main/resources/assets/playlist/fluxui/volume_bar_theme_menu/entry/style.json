@@ -1,0 +1,23 @@
+{
+  "VolumeBarThemeEntry":{
+    "layoutDirection": "horizontal",
+    "paddingLeft": "5px",
+    "paddingRight": "10px",
+    "paddingVertical": "5px",
+    "width": "100%",
+    "contentAlignment": "center",
+    "borderRadius": "2px",
+    "contentSpacing": "spaced-between"
+  },
+
+  "ThemePreview": {
+    "height": "2px",
+    "width": "50px",
+    "layoutDirection": "horizontal"
+  },
+
+  "Wave": {
+    "width": "2px",
+    "height": "1px"
+  }
+}

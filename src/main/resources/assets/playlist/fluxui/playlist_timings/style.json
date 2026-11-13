@@ -1,0 +1,31 @@
+{
+  "SimpleList": {
+    "width": "100%",
+    "gap": "10px"
+  },
+
+  "SpreadContainer": {
+    "layoutDirection": "horizontal",
+    "contentSpacing": "spaced-between",
+    "contentAlignment": "center",
+    "width": "100%"
+  },
+
+  "TimingTextField1": {
+    "backgroundColor": "solid #1a1a1a",
+    "layoutDirection": "horizontal-reversed",
+    "gap": "1px",
+    "paddingVertical": "4px",
+    "paddingHorizontal": "6px",
+    "borderRadius": "3px"
+  },
+
+  "TimingTextField2": {
+    "backgroundColor": "solid #1a1a1a",
+    "layoutDirection": "horizontal-reversed",
+    "gap": "1px",
+    "paddingVertical": "4px",
+    "paddingHorizontal": "6px",
+    "borderRadius": "3px"
+  }
+}

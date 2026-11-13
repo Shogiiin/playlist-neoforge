@@ -1,0 +1,14 @@
+<Element>
+  <Stylesheet location="style.json" />
+
+  <Content>
+    <Container id="TestBox">
+      <Image src="$actionIcon" />
+      <Image src="$albumArt" width="28" height="28" />
+      <Container id="SongDetails">
+        <Text content="$songTitle" />
+        <Text content="$songArtist" />
+      </Container>
+    </Container>
+  </Content>
+</Element>

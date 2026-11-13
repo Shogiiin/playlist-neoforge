@@ -1,0 +1,96 @@
+{
+    "music.kumi_tanioka.an_ordinary_day": {
+        "title": "An Ordinary Day",
+        "artist": "Kumi Tanioka",
+        "album": "Caves & Cliffs",
+        "type": "Caves & Cliffs",
+        "categories": {
+            "category.overworld": [
+                "condition.biome:minecraft:dripstone_caves",
+                "condition.biome:minecraft:lush_caves",
+                "condition.biome:minecraft:snowy_slopes"
+            ]
+        },
+        "track": 10
+    },
+    "music.kumi_tanioka.comforting_memories": {
+        "title": "Comforting Memories",
+        "artist": "Kumi Tanioka",
+        "album": "Caves & Cliffs",
+        "type": "Overworld",
+        "categories": {
+            "category.overworld": [
+                "condition.biome:minecraft:grove",
+                "condition.biome:minecraft:sparse_jungle",
+                "condition.biome:minecraft:forest",
+                "condition.biome:minecraft:old_growth_pine_taiga",
+                "condition.biome:minecraft:old_growth_spruce_taiga",
+                "condition.biome:minecraft:birch_forest",
+                "condition.biome:minecraft:old_growth_birch_forest",
+                "condition.biome:minecraft:dark_forest",
+                "condition.biome:minecraft:jungle",
+                "condition.biome:minecraft:bamboo_jungle"
+            ]
+        },
+        "track": 9
+    },
+    "music.kumi_tanioka.floating_dream": {
+        "title": "Floating Dream",
+        "artist": "Kumi Tanioka",
+        "album": "Caves & Cliffs",
+        "type": "Overworld",
+        "categories": {
+            "category.overworld": [
+                "condition.biome:minecraft:lush_caves",
+                "condition.biome:minecraft:jagged_peaks",
+                "condition.biome:minecraft:forest",
+                "condition.biome:minecraft:old_growth_pine_taiga",
+                "condition.biome:minecraft:old_growth_spruce_taiga",
+                "condition.biome:minecraft:birch_forest",
+                "condition.biome:minecraft:old_growth_birch_forest",
+                "condition.biome:minecraft:dark_forest",
+                "condition.biome:minecraft:jungle",
+                "condition.biome:minecraft:bamboo_jungle"
+            ]
+        },
+        "track": 8
+    },
+    "music.kumi_tanioka.komorebi": {
+        "title": "komorebi",
+        "artist": "Kumi Tanioka",
+        "album": "Tricky Trials",
+        "weight": 1,
+        "categories": {
+            "category.overworld": [],
+            "category.menu": []
+        },
+        "track": 4
+    },
+    "music.kumi_tanioka.pokopoko": {
+        "title": "pokopoko",
+        "artist": "Kumi Tanioka",
+        "album": "Tricky Trials",
+        "weight": 1,
+        "categories": {
+            "category.overworld": [
+                "condition.biome:minecraft:dripstone_caves",
+                "condition.biome:minecraft:grove",
+                "condition.biome:minecraft:jagged_peaks",
+                "condition.biome:minecraft:snowy_slopes"
+            ],
+            "category.menu": []
+        },
+        "track": 5
+    },
+    "music.kumi_tanioka.yakusoku": {
+        "title": "yakusoku",
+        "artist": "Kumi Tanioka",
+        "album": "Tricky Trials",
+        "weight": 1,
+        "categories": {
+            "category.overworld": [],
+            "category.menu": []
+        },
+        "track": 6
+    }
+}

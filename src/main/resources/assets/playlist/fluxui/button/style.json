@@ -1,0 +1,9 @@
+{
+  "Button": {
+    "backgroundColor": "solid #1a1a1a",
+    "padding": "4px",
+    "paddingLeft": "10px",
+    "paddingRight": "10px",
+    "borderRadius": "3px"
+  }
+}

@@ -1,0 +1,10 @@
+<Element>
+  <Stylesheet location="style.json" />
+
+  <Content>
+    <Container id="TestBox">
+      <Image src="play" />
+      <Text>Interlude</Text>
+    </Container>
+  </Content>
+</Element>

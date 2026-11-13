@@ -1,0 +1,11 @@
+{
+  "IconThemeEntry":{
+    "layoutDirection": "horizontal",
+    "paddingLeft": "5px",
+    "paddingRight": "10px",
+    "paddingVertical": "5px",
+    "width": "100%",
+    "contentAlignment": "center",
+    "borderRadius": "2px"
+  }
+}

@@ -1,0 +1,10 @@
+<Element>
+  <Stylesheet location="style.json" />
+
+  <Content>
+    <Container id="VolumeBarThemeEntry" onClick="$onClick">
+      <Text content="$themeLabel" />
+      <Container id="ThemePreview" />
+    </Container>
+  </Content>
+</Element>

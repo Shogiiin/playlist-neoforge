@@ -1,0 +1,25 @@
+<Element>
+  <Stylesheet location="style.json" />
+
+  <Content>
+    <Menu
+      title="New Playlist"
+      primaryButtonLabel="Create"
+      primaryButtonAction="$createPlaylist"
+      primaryButtonEnabled="$canCreate"
+      backAction="$goBack"
+    >
+      <Container id="Content">
+
+        <TabGroup tabs="$tabs" defaultSelection="general" onChange="$onTabChange"/>
+
+        <Container id="Divider" />
+
+        <Container id="CreatePlaylistOptions">
+
+        </Container>
+
+      </Container>
+    </Menu>
+  </Content>
+</Element>

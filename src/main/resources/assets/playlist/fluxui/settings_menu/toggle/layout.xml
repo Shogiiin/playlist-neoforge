@@ -1,0 +1,11 @@
+<Element>
+  <Stylesheet location="style.json" />
+
+  <Content>
+    <Container id="SettingsMenuToggleContainer">
+      <Text content="$settingLabel" />
+      <ToggleSwitch toggleValue="$settingValue" onToggle="$onSettingToggle" />
+    </Container>
+  </Content>
+
+</Element>

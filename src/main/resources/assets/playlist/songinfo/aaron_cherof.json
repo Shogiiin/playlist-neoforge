@@ -1,0 +1,124 @@
+{
+    "music.aaron_cherof.echo_in_the_wind": {
+        "title": "Echo in the Wind",
+        "artist": "Aaron Cherof",
+        "album": "Trails & Tales",
+        "weight": 1,
+        "categories": {
+            "category.overworld": [
+                "condition.biome:minecraft:cherry_grove",
+                "condition.biome:minecraft:flower_forest",
+                "condition.biome:minecraft:lush_caves",
+                "condition.biome:minecraft:badlands",
+                "condition.biome:minecraft:wooded_badlands",
+                "condition.biome:minecraft:eroded_badlands"
+            ],
+            "category.menu": []
+        },
+        "track": 1
+    },
+    "music.aaron_cherof.a_familiar_room": {
+        "title": "A Familiar Room",
+        "artist": "Aaron Cherof",
+        "album": "Trails & Tales",
+        "weight": 1,
+        "categories": {
+            "category.menu": [],
+            "category.overworld": []
+        },
+        "track": 2
+    },
+    "music.aaron_cherof.bromeliad": {
+        "title": "Bromeliad",
+        "artist": "Aaron Cherof",
+        "album": "Trails & Tales",
+        "weight": 1,
+        "categories": {
+            "category.overworld": [
+                "condition.biome:minecraft:cherry_grove",
+                "condition.biome:minecraft:jungle",
+                "condition.biome:minecraft:bamboo_jungle",
+                "condition.biome:minecraft:forest",
+                "condition.biome:minecraft:flower_forest",
+                "condition.biome:minecraft:sparse_jungle"
+            ],
+            "category.menu": []
+        },
+        "track": 3
+    },
+    "music.aaron_cherof.crescent_dunes": {
+        "title": "Crescent Dunes",
+        "artist": "Aaron Cherof",
+        "album": "Trails & Tales",
+        "weight": 1,
+        "categories": {
+            "category.overworld": [
+                "condition.biome:minecraft:desert",
+                "condition.biome:minecraft:badlands",
+                "condition.biome:minecraft:wooded_badlands",
+                "condition.biome:minecraft:eroded_badlands"
+            ],
+            "category.menu": []
+        },
+        "track": 4
+    },
+    "music.aaron_cherof.featherfall": {
+        "title": "Featherfall",
+        "artist": "Aaron Cherof",
+        "album": "Tricky Trials",
+        "weight": 1,
+        "categories": {
+            "category.overworld": [],
+            "category.menu": []
+        },
+        "track": 1
+    },
+    "music.aaron_cherof.puzzlebox": {
+        "title": "Puzzlebox",
+        "artist": "Aaron Cherof",
+        "album": "Tricky Trials",
+        "weight": 1,
+        "categories": {
+            "category.overworld": [],
+            "category.menu": []
+        },
+        "track": 3
+    },
+    "music.aaron_cherof.watcher": {
+        "title": "Watcher",
+        "artist": "Aaron Cherof",
+        "album": "Tricky Trials",
+        "weight": 1,
+        "categories": {
+            "category.overworld": [],
+            "category.menu": []
+        },
+        "track": 2
+    },
+    "music.aaron_cherof.precipice": {
+        "title": "Precipice",
+        "artist": "Aaron Cherof",
+        "album": "Tricky Trials",
+        "type": "Music Disc",
+        "weight": 1,
+        "categories": {
+            "category.overworld": [],
+            "category.nether": [],
+            "category.the_end": []
+        },
+        "track": 12
+    },
+    "music.aaron_cherof.relic": {
+        "title": "Relic",
+        "artist": "Aaron Cherof",
+        "album": "Trails & Tales",
+        "type": "Music Disc",
+        "weight": 1,
+        "categories": {
+            "category.overworld": [],
+            "category.nether": [],
+            "category.the_end": []
+        },
+        "track": 5
+    }
+}

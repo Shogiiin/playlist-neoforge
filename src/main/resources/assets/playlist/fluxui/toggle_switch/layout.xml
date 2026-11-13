@@ -1,0 +1,8 @@
+<Element>
+  <Stylesheet location="style.json" />
+  <Content>
+    <Container id="ToggleSwitch" onClick="$onToggleClick">
+      <Container id="ToggleSlider" />
+    </Container>
+  </Content>
+</Element>

@@ -1,0 +1,9 @@
+{
+  "VBTContent": {
+    "backgroundColor": "solid #1a1a1a",
+    "padding": "3px",
+    "borderRadius": "3px",
+    "maxHeight": "125px",
+    "width": "100%"
+  }
+}

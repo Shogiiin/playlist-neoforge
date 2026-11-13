@@ -1,0 +1,21 @@
+<Element>
+  <Stylesheet location="styles.json" />
+
+  <Content>
+    <Container id="MainContainer">
+      <Container id="TitleBar">
+        <CharacterButton id="BackButton" onPress="$backAction">&lt;</CharacterButton>
+        <Text content="$title" />
+      </Container>
+      <Container id="ContentContainer">
+        <Children />
+        <Container id="MenuFooter">
+          <Text id="MenuFooterText" content="$footerText" />
+          <Button id="DoneButton" onPress="$primaryButtonAction" enabled="$primaryButtonEnabled">
+            <Text content="$primaryButtonLabel"/>
+          </Button>
+        </Container>
+      </Container>
+    </Container>
+  </Content>
+</Element>

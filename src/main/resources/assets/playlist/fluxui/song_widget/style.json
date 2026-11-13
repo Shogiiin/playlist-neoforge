@@ -1,0 +1,16 @@
+{
+  "TestBox": {
+    "layoutDirection": "horizontal",
+    "paddingVertical": "8px",
+    "paddingLeft": "10px",
+    "paddingRight": "12px",
+    "borderRadius": "3px",
+    "backgroundColor": "solid #1a1a1a",
+    "gap": "10px",
+    "contentAlignment": "center"
+  },
+
+  "SongDetails": {
+    "gap": "4px"
+  }
+}

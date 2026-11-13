@@ -1,0 +1,14 @@
+<Element>
+  <Stylesheet location="style.json" />
+
+  <Content>
+    <Container
+      id="Tab"
+      onHover="$onHover"
+      onUnHover="$onUnHover"
+      onClick="$onClick"
+    >
+      <Text content="$tabLabel" />
+    </Container>
+  </Content>
+</Element>

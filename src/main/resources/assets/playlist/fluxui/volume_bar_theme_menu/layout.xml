@@ -1,0 +1,14 @@
+<Element>
+  <Stylesheet location="style.json" />
+
+  <Content>
+    <Menu
+      title="Change Volume Bar Theme"
+      primaryButtonLabel="Done"
+      primaryButtonAction="$exitScreen"
+      backAction="$exitScreen"
+    >
+      <Container id="VBTContent" />
+    </Menu>
+  </Content>
+</Element>

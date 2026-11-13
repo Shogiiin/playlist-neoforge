@@ -1,0 +1,10 @@
+<Element>
+  <Stylesheet location="style.json" />
+
+  <Content>
+    <Container id="VolumeWidget">
+      <Image src="audio" />
+      <Text content="$volumeLevel" />
+    </Container>
+  </Content>
+</Element>

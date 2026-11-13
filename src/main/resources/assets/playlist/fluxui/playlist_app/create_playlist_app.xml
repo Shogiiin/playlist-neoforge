@@ -1,0 +1,5 @@
+<Element>
+  <Content>
+    <CreatePlaylistMenu goTo="$goTo" goBack="$goBack" />
+  </Content>
+</Element>

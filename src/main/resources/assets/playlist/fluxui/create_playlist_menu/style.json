@@ -1,0 +1,19 @@
+{
+  "Content": {
+    "width": "100%",
+    "gap": "10px",
+    "paddingBottom": "5px"
+  },
+
+  "CreatePlaylistOptions": {
+    "width": "100%",
+    "gap": "10px",
+    "paddingLeft": "2px"
+  },
+
+  "Divider": {
+    "width": "100%",
+    "height": "1px",
+    "backgroundColor": "solid #1a1a1a"
+  }
+}

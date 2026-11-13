@@ -1,0 +1,21 @@
+<Element>
+  <Stylesheet location="style.json" />
+
+  <Content>
+    <Container id="SimpleList">
+
+      <Container id="PlaylistName">
+        <Text>Playlist Name</Text>
+        <FocusContainer id="PlaylistNameTextField" controlledChild="PlaylistNameTextBox">
+          <TextBox id="PlaylistNameTextBox" onUpdate="$onPlaylistNameUpdate" defaultText="$defaultName"/>
+          <Text id="PlaylistNameEmptyError"> </Text>
+        </FocusContainer>
+      </Container>
+
+      <SettingsMenuToggle id="Toggle" value="$cloneDefaultPlaylist" onToggle="$toggleCloneDefaultPlaylist">
+        Clone Default Playlist
+      </SettingsMenuToggle>
+
+    </Container>
+  </Content>
+</Element>

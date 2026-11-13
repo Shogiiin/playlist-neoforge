@@ -1,0 +1,61 @@
+<Element>
+  <Stylesheet location="style.json" />
+
+  <Content>
+    <Menu title="Settings"
+      primaryButtonLabel="Done"
+      primaryButtonAction="$exitScreen"
+      backAction="$exitScreen"
+      footerText="Playlist 1.3.0"
+    >
+      <Container id="Content">
+
+        <Container id="AccentSettingContainer">
+          <Text>Accent Color</Text>
+          <FocusContainer id="AccentSettingTextBoxContainer" controlledChild="AccentTextBox">
+            <Container id="AccentTextField">
+              <Text id="HexSymbol">#</Text>
+              <TextBox id="AccentTextBox" defaultText="$accentDefaultText" onUpdate="$onAccentUpdate" maxLength="6" onUnFocus="$AccentTextBoxUnfocus" />
+            </Container>
+            <Container id="AccentPreview" />
+          </FocusContainer>
+        </Container>
+
+        <Container id="SettingsEntry">
+          <Text>Volume Bar Theme</Text>
+          <Container id="LabelWithButton">
+            <Text id="VolumeBarThemeLabel" content="$volumeBarThemeLabel" />
+            <Button id="VolumeBarThemeButton" onPress="$handleVolumeBarThemeButton">
+              <Image src="edit" />
+            </Button>
+          </Container>
+        </Container>
+
+        <Container id="SettingsEntry">
+          <Text>Icon Theme</Text>
+          <Container id="LabelWithButton">
+            <Text id="IconThemeLabel" content="$iconThemeLabel" />
+            <Button id="IconThemeButton" onPress="$handleIconThemeButton">
+              <Image src="edit" />
+            </Button>
+          </Container>
+        </Container>
+
+        <SettingsMenuToggle id="SettingToggle" value="$darkenBackgroundValue" onToggle="$darkenBackgroundToggle">Darken Background</SettingsMenuToggle>
+        <SettingsMenuToggle id="SettingToggle" value="$skipInterludeValue" onToggle="$skipInterludeToggle">Skip Interlude on Play</SettingsMenuToggle>
+        <SettingsMenuToggle id="SettingToggle" value="$showQuickPlayerValue" onToggle="$showQuickPlayerToggle">Show Quick Player</SettingsMenuToggle>
+        <SettingsMenuToggle id="SettingToggle" value="$showAltNamesValue" onToggle="$showAltNamesToggle">Show Alt Names</SettingsMenuToggle>
+
+        <Container id="Divider" />
+
+        <Container id="SettingsEntry">
+          <Text>Found a Bug?</Text>
+          <Button onPress="$reportBug">
+            <Text>Report it!</Text>
+          </Button>
+        </Container>
+
+      </Container>
+    </Menu>
+  </Content>
+</Element>

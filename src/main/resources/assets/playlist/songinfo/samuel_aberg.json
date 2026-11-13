@@ -1,0 +1,16 @@
+{
+    "music.samuel_aberg.5": {
+        "title": "Five",
+        "artist": "Samuel Åberg",
+        "album": "Wild Update",
+        "type": "Music Disc",
+        "weight": 1,
+        "categories": {
+            "category.overworld": [],
+            "category.nether": [],
+            "category.the_end": []
+        },
+        "alt": "5",
+        "track": 4
+    }
+}

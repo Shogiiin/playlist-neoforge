@@ -1,0 +1,10 @@
+{
+  "CharacterButton": {
+    "contentAlignment": "end"
+  },
+
+  "CharacterText": {
+    "foregroundColor": "solid #bfbfbf"
+  }
+
+}

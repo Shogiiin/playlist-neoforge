@@ -1,0 +1,45 @@
+{
+  "MainContainer": {
+    "width": "275px",
+    "backgroundColor": "solid #1a1a1a",
+    "borderRadius": "4px"
+  },
+
+  "TitleBar": {
+    "layoutDirection": "horizontal",
+    "width": "100%",
+    "paddingTop": "10px",
+    "paddingBottom": "10px"
+  },
+
+  "BackButton": {
+    "contentSpacing": "spaced-evenly",
+    "contentAlignment": "center",
+    "width": "20px"
+  },
+
+  "ContentContainer": {
+    "width": "100%",
+    "gap": "10px",
+    "paddingHorizontal": "20px",
+    "paddingTop": "15px",
+    "paddingBottom": "15px",
+    "backgroundColor": "solid #0d0d0d",
+    "borderRadius": "3px"
+  },
+
+  "SettingToggle": {
+    "width": "100%"
+  },
+
+  "MenuFooter": {
+    "width": "100%",
+    "layoutDirection": "horizontal",
+    "contentSpacing": "spaced-between",
+    "contentAlignment": "center"
+  },
+
+  "MenuFooterText": {
+    "foregroundColor": "solid #aaaaaa"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "SimpleList": {
+    "width": "100%",
+    "gap": "10px"
+  },
+
+  "SpreadContainer": {
+    "layoutDirection": "horizontal",
+    "contentSpacing": "spaced-between",
+    "contentAlignment": "center",
+    "width": "100%"
+  },
+
+  "TimingTextField1": {
+    "backgroundColor": "solid #1a1a1a",
+    "layoutDirection": "horizontal-reversed",
+    "gap": "1px",
+    "paddingVertical": "4px",
+    "paddingHorizontal": "6px",
+    "borderRadius": "3px"
+  },
+
+  "TimingTextField2": {
+    "backgroundColor": "solid #1a1a1a",
+    "layoutDirection": "horizontal-reversed",
+    "gap": "1px",
+    "paddingVertical": "4px",
+    "paddingHorizontal": "6px",
+    "borderRadius": "3px"
+  },
+
+  "PlaylistName": {
+    "width": "100%",
+    "layoutDirection": "horizontal",
+    "contentAlignment": "center",
+    "contentSpacing": "spaced-between"
+  },
+
+  "PlaylistNameTextField": {
+    "backgroundColor": "solid #1a1a1a",
+    "layoutDirection": "horizontal",
+    "width": "40%",
+    "paddingVertical": "4px",
+    "paddingHorizontal": "6px",
+    "borderRadius": "3px",
+    "contentSpacing": "spaced-between"
+  },
+
+  "PlaylistNameEmptyError": {
+    "foregroundColor": "solid #ff8880"
+  },
+
+  "Toggle": {
+    "width": "100%"
+  }
+}
